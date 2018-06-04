@@ -1,0 +1,6 @@
+C:\Users\Max\Documents\Visual Studio 2015\Projects\Ohjelmointitehtava_1\Ohjelmointitehtava_1\bin\Debug\Ohjelmointitehtava_1.exe.config
+C:\Users\Max\Documents\Visual Studio 2015\Projects\Ohjelmointitehtava_1\Ohjelmointitehtava_1\bin\Debug\Ohjelmointitehtava_1.exe
+C:\Users\Max\Documents\Visual Studio 2015\Projects\Ohjelmointitehtava_1\Ohjelmointitehtava_1\bin\Debug\Ohjelmointitehtava_1.pdb
+C:\Users\Max\Documents\Visual Studio 2015\Projects\Ohjelmointitehtava_1\Ohjelmointitehtava_1\obj\Debug\Ohjelmointitehtava_1.csprojResolveAssemblyReference.cache
+C:\Users\Max\Documents\Visual Studio 2015\Projects\Ohjelmointitehtava_1\Ohjelmointitehtava_1\obj\Debug\Ohjelmointitehtava_1.exe
+C:\Users\Max\Documents\Visual Studio 2015\Projects\Ohjelmointitehtava_1\Ohjelmointitehtava_1\obj\Debug\Ohjelmointitehtava_1.pdb
